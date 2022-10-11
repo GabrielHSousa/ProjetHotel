@@ -1,0 +1,45 @@
+body{
+    background-color: rgba(0, 0, 0, 0.911); 
+ }
+ .inicio{
+     text-align: center;
+     width: 99vw;
+     margin: -30px auto 2px;
+     background-color:rgba(0, 0, 0, 0.911); 
+ }
+
+ .resa{
+    margin: 50px auto 50px;
+     border: 20px white solid;
+    color: aliceblue;
+    font-size: 50px;
+ 
+ }
+ .servicos a{
+     width: 99vw;
+     color: rgb(238, 9, 9);
+     margin: 20px auto 20px;
+ 
+     
+ 
+ }
+ .servi {
+     text-align: center;
+     margin-top: -10px;
+     display: flex;
+     justify-content: center ;
+     margin: 10vh auto -1vh;
+     width: 100vw;
+     color: rgb(238, 9, 9);
+     font-size: 30px;
+     left: 100px;
+     
+     
+ }
+ .servi a{
+     
+     color: rgb(236, 30, 30);
+     margin: -10px auto 10px;
+     left: 100px;
+     
+ }
